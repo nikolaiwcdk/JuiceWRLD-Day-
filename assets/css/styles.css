@@ -254,7 +254,7 @@ nav {
 /* === Hero Section === */
 .hero {
   position: relative;
-  background: url('./assets/img/BG.jpg') center center / cover no-repeat;
+  background: url('../img/BG.jpg') center center / cover no-repeat;
   height: 100vh;
   color: #ffffff;
   overflow: hidden;
